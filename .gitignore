@@ -1,0 +1,6 @@
+*
+!*/
+!.gitignore
+!*.md
+!*.png
+.claude/settings.local.json
