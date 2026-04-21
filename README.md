@@ -8,6 +8,7 @@ Each article lives in `<topic>/<slug>/src.md` with downloaded images alongside.
 
 Topics:
 - [`agentic-eval/`](#agentic-eval) — evaluating AI agents
+- [`building-agents/`](#building-agents) — designing and building agentic systems
 
 ---
 
